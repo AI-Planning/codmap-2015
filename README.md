@@ -1,7 +1,8 @@
 # Competition of Distributed and Multiagent Planners (CoDMAP) #
 
-The CoDMAP competition (of the DMAP 2015 Workshop) is meant to be a preliminary version of possible future Multiagent Planning (MAP) track at the IPC (International Planning Competition). The competition focuses on deterministic (STRIPS-compatible), domain-independent, offline planners for cooperative agents. For maximal openness to various multiagent planners, CoDMAP consists of two tracks (see Figure 1): centralized (compatibility track) and distributed (track towards IPC MAP). You can choose which track you will be competing in. If your planner is suitable for the distributed track, it can automatically compete in the centralized track as well, so we kindly suggest to submit it to both tracks.
-This README would normally document whatever steps are necessary to get your application up and running.
+The CoDMAP competition (of the DMAP 2015 Workshop) was meant to be a preliminary version of possible future Multiagent Planning (MAP) track at the IPC (International Planning Competition). The competition focuses on deterministic (STRIPS-compatible), domain-independent, offline planners for cooperative agents. For maximal openness to various multiagent planners, CoDMAP consists of two tracks: centralized (compatibility track) and distributed (track towards IPC MAP).
+
+Detailed information and results can be found at the competition pages: http://agents.fel.cvut.cz/codmap/
 
 ### Teams ###
 
