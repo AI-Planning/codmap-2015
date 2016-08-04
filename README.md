@@ -2,6 +2,8 @@
 
 The CoDMAP competition (of the DMAP 2015 Workshop) was meant to be a preliminary version of possible future Multiagent Planning (MAP) track at the IPC (International Planning Competition). The competition focuses on deterministic (STRIPS-compatible), domain-independent, offline planners for cooperative agents. For maximal openness to various multiagent planners, CoDMAP consists of two tracks: centralized (compatibility track) and distributed (track towards IPC MAP).
 
+The repository contains the PDDL<->MA-PDDL conversion scripts and competition running scripts.
+
 Detailed information and results can be found at the competition pages: http://agents.fel.cvut.cz/codmap/
 
 ### Teams ###
